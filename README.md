@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Budget App
 Flutter UI Practice, Budget App 
 
@@ -11,4 +12,13 @@ Flutter UI Practice, Budget App
 
 
 UI inpired from Marcus NG
+=======
+
+# Flutter Budget App UI
+
+This project is a Flutter application for UI practice.
+
+# Budget App
+Flutter UI practice, inspired from Marcus Ng 
+>>>>>>> cf64973d4cc1d4743ab93af1cffb0030b4e24587
 
